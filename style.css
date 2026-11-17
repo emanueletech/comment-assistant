@@ -33,7 +33,7 @@ a:hover { color: #ff7b4a; }
   display: flex; align-items: center; justify-content: space-between;
   padding: 28px 0;
 }
-.top img { height: 30px; display: block; }
+.top img { height: 64px; display: block; }
 .top nav a {
   color: var(--paper); text-decoration: none; font-weight: 600; font-size: 15px;
   margin-left: 22px; opacity: .8;
@@ -117,7 +117,7 @@ footer a { color: var(--muted); }
   .top nav a { margin-left: 14px; }
   .lead { font-size: 18px; }
   h1 { font-size: 38px; }
-  .top img { height: 24px; }
+  .top img { height: 40px; }
   .section { padding: 18px 18px; }
   a { overflow-wrap: anywhere; }
 }
